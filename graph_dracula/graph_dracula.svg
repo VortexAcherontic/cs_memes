@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="graph_dracula.svg"
-   inkscape:export-filename="graph_dracula.png"
+   inkscape:export-filename="graph_dracula.jpg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -212,13 +212,13 @@
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:9.87777px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';fill:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
-       x="42.01897"
+       x="43.834877"
        y="40.01923"
        id="text407"><tspan
          sodipodi:role="line"
          id="tspan405"
          style="stroke-width:1"
-         x="42.01897"
-         y="40.01923">Graph Dracular</tspan></text>
+         x="43.834877"
+         y="40.01923">Graph Dracula</tspan></text>
   </g>
 </svg>
